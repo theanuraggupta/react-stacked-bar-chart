@@ -1,0 +1,23 @@
+{
+  "name": "yqeu9n--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@syncfusion/ej2-base": "23.1.41",
+    "@syncfusion/ej2-charts": "23.1.44",
+    "@syncfusion/ej2-react-base": "23.1.43",
+    "@syncfusion/ej2-react-charts": "23.1.44",
+    "@syncfusion/ej2-icons": "23.1.36"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
